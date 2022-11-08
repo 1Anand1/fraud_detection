@@ -10,4 +10,4 @@ def model3():
     print("Code of Model3")
 
 
-    
+print("Model 2 is best")
